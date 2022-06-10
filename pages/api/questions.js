@@ -2,8 +2,8 @@ const perguntas = [
   {
     key: 1,
     pergunta: "Quem é esse pokemon!",
-    resposta: "eletrode",
-    options: ["Voltorb", "Ghastly", "Jigglypuff", "Eletrode"],
+    resposta: "electrode",
+    options: ["Voltorb", "Ghastly", "Jigglypuff", "Electrode"],
   },
   {
     key: 2,
